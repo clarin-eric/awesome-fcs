@@ -17,15 +17,15 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - [FCS Specification Document Sources for FCS 2.0, 1.0, Data Views, AAI (AsciiDoc)](https://github.com/clarin-eric/fcs-misc)
 - [Library of Congress: SRU/CQL](https://www.loc.gov/standards/sru/) - _Search/Retrieval via URL_, _Contextual Query Language_
-  - [LOC: CQL: Contextual Query Language](http://www.loc.gov/standards/sru/cql/spec.html)
-  - [LoC: SRU 1.2](https://www.loc.gov/standards/sru/sru-1-2.html)
-  - [LoC: SRU 2.0](https://www.loc.gov/standards/sru/sru-2-0.html)
+  - [CQL: Contextual Query Language](http://www.loc.gov/standards/sru/cql/spec.html)
+  - [SRU 1.2](https://www.loc.gov/standards/sru/sru-1-2.html)
+  - [SRU 2.0](https://www.loc.gov/standards/sru/sru-2-0.html)
 - [OASIS: searchRetrieve: Part 0. Overview Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.html)
-  - [OASIS: searchRetrieve: Part 1. Abstract Protocol Definition Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part1-apd/searchRetrieve-v1.0-os-part1-apd.html)
-  - [OASIS: searchRetrieve: Part 2. searchRetrieve Operation: APD Binding for **SRU 1.2** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part2-sru1.2/searchRetrieve-v1.0-os-part2-sru1.2.html)
-  - [OASIS: searchRetrieve: Part 3. searchRetrieve Operation: APD Binding for **SRU 2.0** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part3-sru2.0/searchRetrieve-v1.0-os-part3-sru2.0.html)
-  - [OASIS: searchRetrieve: Part 5. **CQL: The Contextual Query Language** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part5-cql/searchRetrieve-v1.0-os-part5-cql.html)
-  - [OASIS: searchRetrieve: Part 7. **Explain** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part7-explain/searchRetrieve-v1.0-os-part7-explain.html)
+  - [searchRetrieve: Part 1. Abstract Protocol Definition Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part1-apd/searchRetrieve-v1.0-os-part1-apd.html)
+  - [searchRetrieve: Part 2. searchRetrieve Operation: APD Binding for **SRU 1.2** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part2-sru1.2/searchRetrieve-v1.0-os-part2-sru1.2.html)
+  - [searchRetrieve: Part 3. searchRetrieve Operation: APD Binding for **SRU 2.0** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part3-sru2.0/searchRetrieve-v1.0-os-part3-sru2.0.html)
+  - [searchRetrieve: Part 5. **CQL: The Contextual Query Language** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part5-cql/searchRetrieve-v1.0-os-part5-cql.html)
+  - [searchRetrieve: Part 7. **Explain** Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part7-explain/searchRetrieve-v1.0-os-part7-explain.html)
  
 ## Guides and Tutorials
 

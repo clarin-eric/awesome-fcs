@@ -36,11 +36,18 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 *Libraries and reference implementations.*
 
 - [SRU/CQL server implementation conforming to SRU/CQL (Java)](https://github.com/clarin-eric/fcs-sru-server)
+  [[docs](https://clarin-eric.github.io/fcs-sru-server/)]
+  [[python impl](https://github.com/Querela/fcs-sru-server-python)]
 - [SRU/CQL client implementation conforming to SRU/CQL (Java)](https://github.com/clarin-eric/fcs-sru-client)
+  [[docs](https://clarin-eric.github.io/fcs-sru-client/)]
 - [Simple CLARIN FCS endpoint (Java)](https://github.com/clarin-eric/fcs-simple-endpoint)
+  [[docs](https://clarin-eric.github.io/fcs-simple-endpoint/)]
+  [[python impl](https://github.com/Querela/fcs-simple-endpoint-python)]
 - [CLARIN-FCS client implementation (Java)](https://github.com/clarin-eric/fcs-simple-client)
+  [[docs](https://clarin-eric.github.io/fcs-simple-client/)]
 - [FCS SRU Aggregator (Java)](https://github.com/clarin-eric/fcs-sru-aggregator)
 - [Korp FCS 2.0 Reference Endpoint Implementation (Java)](https://github.com/clarin-eric/fcs-korp-endpoint)
+  [[python impl](https://github.com/Querela/fcs-korp-endpoint-python)]
 - [SRU/CQL/FCS Endpoint Conformance Tester](https://github.com/clarin-eric/fcs-endpoint-tester)
 
 ## Endpoint Implementations

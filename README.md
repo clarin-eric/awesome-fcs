@@ -15,7 +15,9 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 *Specification documents related to FCS and related technologies.*
 
-- [FCS Specification Document Sources for FCS 2.0, 1.0, Data Views, AAI (AsciiDoc)](https://github.com/clarin-eric/fcs-misc)
+- [FCS Specification Document Sources for FCS 2.0, 1.0, Data Views, AAI (AsciiDoc)](https://github.com/clarin-eric/fcs-misc) _also contains XSD schema files and examples_
+  - [FCS 2.0 Core Specification (PDF, v20230426)](https://office.clarin.eu/v/CE-2017-1046-FCS-Specification-v20230426.pdf) [(PDF, v20220803)](https://office.clarin.eu/v/CE-2017-1046-FCS-Specification-v89.pdf)
+  - [FCS Data Views 1.0 Specification (PDF, v20170613)](https://office.clarin.eu/v/CE-2014-0317-CLARIN_FCS_Specification_DataViews_1_0-v20170613.pdf)
 - [Library of Congress: SRU/CQL](https://www.loc.gov/standards/sru/) - _Search/Retrieval via URL_, _Contextual Query Language_
   - [CQL: Contextual Query Language](http://www.loc.gov/standards/sru/cql/spec.html)
   - [SRU 1.2](https://www.loc.gov/standards/sru/sru-1-2.html)

@@ -55,6 +55,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 *Endpoint implementations in various languages for different search backends.*
 
 - [Korp FCS 2.0 Reference Endpoint Implementation (Java)](https://github.com/clarin-eric/fcs-korp-endpoint)
+  [[python impl](https://github.com/Querela/fcs-korp-endpoint-python)]
 - [FCS SRU CQI Bridge (Java)](https://github.com/clarin-eric/fcs-sru-cqi-bridge)
 - [BlackLab and Mtas FCS 2.0 endpoint implementation](https://github.com/INL/clariah-fcs-endpoints)
 

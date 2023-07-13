@@ -56,8 +56,9 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - [Korp FCS 2.0 Reference Endpoint Implementation (Java)](https://github.com/clarin-eric/fcs-korp-endpoint)
   [[python impl](https://github.com/Querela/fcs-korp-endpoint-python)]
-- [FCS SRU CQI Bridge (Java)](https://github.com/clarin-eric/fcs-sru-cqi-bridge)
+- [FCS (2.0) SRU CQI Bridge (Java)](https://github.com/clarin-eric/fcs-sru-cqi-bridge)
 - [BlackLab and Mtas FCS 2.0 endpoint implementation](https://github.com/INL/clariah-fcs-endpoints)
+- [KorapSRU - FCS 2.0 endpoint for KorAP (Java)](https://github.com/KorAP/KorapSRU)
 
 ## Client Implementations
 

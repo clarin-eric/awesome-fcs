@@ -1,6 +1,10 @@
 # Awesome Federated Content Search (FCS) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome FCS frameworks, libraries, software and resources
 
+<!-- see https://github.com/sindresorhus/awesome-lint -->
+<!--lint disable double-link-->
+<!--lint disable awesome-contributing-->
+
 ## Contents
 
 - [Websites](#websites)
@@ -88,7 +92,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - [CQL Parser (Java)](https://github.com/indexdata/cql-java)
 - [CQL Parser (JavaScript)](https://github.com/Querela/cql-js)
-- [CQL Parser from `cheshire3` (Python)](https://github.com/cheshire3/cheshire3/blob/develop/cheshire3/cqlParser.py)
+- [CQL Parser - from `Cheshire3` Search Engine and Information Framework (Python)](https://github.com/cheshire3/cheshire3/blob/develop/cheshire3/cqlParser.py)
 - [CQL Parser (Python)](https://github.com/Querela/cql-python)
 - [CQL to XCQL Transformer (XQuery)](https://github.com/digicademy/cql-parser-xqm)
 

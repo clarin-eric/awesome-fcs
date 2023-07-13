@@ -20,21 +20,21 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - [Content search at CLARIN](https://www.clarin.eu/content/content-search)
 - [Federated Content Search (CLARIN-FCS) - Technical Details](https://www.clarin.eu/content/federated-content-search-clarin-fcs-technical-details)
-- [Official FCS SRU Aggregator at CLARIN](https://contentsearch.clarin.eu/)
-- [CLARIN Centre Registy (FCS)](https://centres.clarin.eu/fcs) - *List of CLARIN FCS Endpoints*
+- [Official FCS SRU Aggregator at CLARIN](https://contentsearch.clarin.eu/) - Main FCS client and frontend for users.
+- [CLARIN Centre Registy (FCS)](https://centres.clarin.eu/fcs) - List of CLARIN FCS Endpoints.
 - [CLARIN-FCS endpoint conformance tester](http://clarin.ids-mannheim.de/srutest)
 
 ## Specification Documents
 
 *Specification documents related to FCS and related technologies.*
 
-- [FCS Specification Document Sources for FCS 2.0, 1.0, Data Views, AAI (AsciiDoc)](https://github.com/clarin-eric/fcs-misc) (*also contains XSD schema files and examples*)
+- [FCS Specification Document Sources for FCS 2.0, 1.0, Data Views, AAI (AsciiDoc)](https://github.com/clarin-eric/fcs-misc) - Also contains XSD schema files and examples.
   - [FCS 2.0 Core Specification (PDF, v20230426)](https://office.clarin.eu/v/CE-2017-1046-FCS-Specification-v20230426.pdf) [(PDF, v20220803)](https://office.clarin.eu/v/CE-2017-1046-FCS-Specification-v89.pdf)
   - [FCS Data Views 1.0 Specification (PDF, v20170613)](https://office.clarin.eu/v/CE-2014-0317-CLARIN_FCS_Specification_DataViews_1_0-v20170613.pdf)
-- [Library of Congress: SRU/CQL](https://www.loc.gov/standards/sru/) - *Search/Retrieval via URL*, *Contextual Query Language*
-  - [CQL: Contextual Query Language](http://www.loc.gov/standards/sru/cql/spec.html)
-  - [SRU 1.2](https://www.loc.gov/standards/sru/sru-1-2.html)
-  - [SRU 2.0](https://www.loc.gov/standards/sru/sru-2-0.html)
+- [Library of Congress: SRU/CQL](https://www.loc.gov/standards/sru/) - Search/Retrieval via URL, Contextual Query Language.
+  - [CQL: Contextual Query Language](http://www.loc.gov/standards/sru/cql/spec.html) - Query language for mandatory BASIC search capability that each endpoint must support.
+  - [SRU 1.2](https://www.loc.gov/standards/sru/sru-1-2.html) - For FCS 1.0 and backward compatibility in FCS 2.0.
+  - [SRU 2.0](https://www.loc.gov/standards/sru/sru-2-0.html) - For FCS 2.0.
   - [Differences between SRU 1.2 and SRU 2.0](http://www.loc.gov/standards/sru/differences.html)
 - [OASIS: searchRetrieve: Part 0. Overview Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part0-overview/searchRetrieve-v1.0-os-part0-overview.html)
   - [searchRetrieve: Part 1. Abstract Protocol Definition Version 1.0](http://docs.oasis-open.org/search-ws/searchRetrieve/v1.0/os/part1-apd/searchRetrieve-v1.0-os-part1-apd.html)
@@ -46,6 +46,10 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 ## Guides and Tutorials
 
 *Guides and Tutorial about FCS.*
+
+- *WIP* [FCS Endpoint Dev Tutorial](https://github.com/clarin-eric/fcs-misc/tree/feature/fcs-endpoint-dev-tutorial) [[PDF, 2016-01](https://github.com/clarin-eric/fcs-misc/blob/feature/fcs-endpoint-dev-tutorial/historical/documents/FCS-2-endpoint-developers-tutorial.pdf)] - Endpoint Developers' Tutorial for using the CLARIN SRU/FCS libraries.
+- [Content Search Tutorial using the CLARIN FCS Aggregator](https://www.clarin.eu/content/content-search-tutorial)
+- [How to Search for Linguistic Patterns across Collections of Resources](https://docs.google.com/document/d/1lVAnLtvasR3FZ4jPjVQM9X_xXqIsgVYUIFgz1Rgbteo/edit#heading=h.qk98yzwql21k)
 
 ## Reference Implementations for SRU / FCS
 
@@ -91,7 +95,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 ## Query Parsers
 
-*Parsers for FCS query languages.*
+*Parsers and converters for FCS query languages.*
 
 ### CQL (Contextual Query Language)
 

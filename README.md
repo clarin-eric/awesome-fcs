@@ -69,6 +69,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [Korp FCS 2.0 Reference Endpoint Implementation (Java)](https://github.com/clarin-eric/fcs-korp-endpoint) 
   [[python impl](https://github.com/Querela/fcs-korp-endpoint-python)]
 - [SRU/CQL/FCS Endpoint Conformance Tester](https://github.com/clarin-eric/fcs-endpoint-tester)
+- [SRU/FCS Endpoint Archetype](https://github.com/clarin-eric/fcs-endpoint-archetype) - Easy bootstrapping of new Java SRU/FCS Endpoint projects.
 
 ## Endpoint Implementations
 

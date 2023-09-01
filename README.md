@@ -84,6 +84,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [CLARIAH Federated Content Search Corpora - FCS 2.0 endpoint (Java)](https://github.com/INL/clariah-fcs-endpoints)
 - [Kielipankki Korp FCS 2.0 Endpoint (Java)](https://github.com/CSCfi/Kielipankki-fcs-korp-endpoint)
 - [FCS 2.0 endpoint for Manatee-go (Go)](https://is.muni.cz/th/g4k0b/) [[sources](https://is.muni.cz/th/g4k0b/manatee-fcs2.zip)]
+- [FCS **1.2** endpoint in NoSketchEngine/Bonito (frontend for Manatee) (Python)](https://nlp.fi.muni.cz/trac/noske)
 - [FCS **1.0** endpoint in KonText (frontend for Manatee) (Python)](https://github.com/czcorpus/kontext/blob/master/lib/views/fcs.py)
 
 ## Client Implementations

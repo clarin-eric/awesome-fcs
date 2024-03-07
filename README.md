@@ -22,7 +22,8 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [Federated Content Search (CLARIN-FCS) - Technical Details](https://www.clarin.eu/content/federated-content-search-clarin-fcs-technical-details)
 - [Official FCS SRU Aggregator at CLARIN](https://contentsearch.clarin.eu/) - Main FCS client and frontend for users.
 - [CLARIN Centre Registy (FCS)](https://centres.clarin.eu/fcs) - List of CLARIN FCS Endpoints.
-- [CLARIN-FCS endpoint conformance tester](http://clarin.ids-mannheim.de/srutest)
+- [CLARIN-FCS Endpoint Validator (previously: Conformance Tester)](https://www.clarin.eu/fcsvalidator)
+- [CLARIN Forum - Topics with _fcs_ tag](https://forum.clarin.eu/tag/fcs)
 
 ## Specification Documents
 
@@ -69,6 +70,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [Korp FCS 2.0 Reference Endpoint Implementation (Java)](https://github.com/clarin-eric/fcs-korp-endpoint) 
   [[python impl](https://github.com/Querela/fcs-korp-endpoint-python)]
 - [SRU/CQL/FCS Endpoint Conformance Tester](https://github.com/clarin-eric/fcs-endpoint-tester)
+- [SRU/CQL/FCS Endpoint Validator](https://github.com/saw-leipzig/fcs-endpoint-validator) - Rewrite of the Conformance Tester with more features.
 - [SRU/FCS Endpoint Archetype](https://github.com/clarin-eric/fcs-endpoint-archetype) - Easy bootstrapping of new Java SRU/FCS Endpoint projects.
 
 ## Endpoint Implementations

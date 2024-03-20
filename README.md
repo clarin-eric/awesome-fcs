@@ -88,6 +88,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [FCS 2.0 endpoint for Manatee-go (Go)](https://is.muni.cz/th/g4k0b/) [[sources](https://is.muni.cz/th/g4k0b/manatee-fcs2.zip)]
 - [FCS **1.2** endpoint in NoSketchEngine/Bonito (frontend for Manatee) (Python)](https://nlp.fi.muni.cz/trac/noske)
 - [FCS **1.0** endpoint in KonText (frontend for Manatee) (Python)](https://github.com/czcorpus/kontext/blob/master/lib/views/fcs.py)
+- [CLARIN FCS **2.0** Endpoint for Manatee-open corpus search engine](https://github.com/czcorpus/mquery-sru)
 - [FCS 2.0 endpoint for NoSketchEngine/Bonito (Java)](https://github.com/Leipzig-Corpora-Collection/fcs-noske-endpoint)
 
 ## Client Implementations

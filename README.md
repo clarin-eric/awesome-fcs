@@ -24,6 +24,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [CLARIN Centre Registy (FCS)](https://centres.clarin.eu/fcs) - List of CLARIN FCS Endpoints.
 - [CLARIN-FCS Endpoint Validator (previously: Conformance Tester)](https://www.clarin.eu/fcsvalidator)
 - [CLARIN Forum - Topics with _fcs_ tag](https://forum.clarin.eu/tag/fcs)
+- [CLARIN-FCS Latest Documents](https://clarin-eric.github.io/fcs-misc/) - GitHub Build of specification/tutorial documents of the `fcs-misc` repo.
 
 ## Specification Documents
 
@@ -48,6 +49,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 *Guides and Tutorial about FCS.*
 
+- [FCS Endpoint Development Guide](https://www.clarin.eu/fcsdevguide) - RevealJS presentation about FCS, SRU, endpoint development and more.
 - *WIP* [FCS Endpoint Dev Tutorial](https://github.com/clarin-eric/fcs-misc/tree/feature/fcs-endpoint-dev-tutorial) [[PDF, 2016-01](https://github.com/clarin-eric/fcs-misc/blob/feature/fcs-endpoint-dev-tutorial/historical/documents/FCS-2-endpoint-developers-tutorial.pdf)] - Endpoint Developers' Tutorial for using the CLARIN SRU/FCS libraries.
 - [Content Search Tutorial using the CLARIN FCS Aggregator](https://www.clarin.eu/content/content-search-tutorial)
 - [How to Search for Linguistic Patterns across Collections of Resources](https://docs.google.com/document/d/1lVAnLtvasR3FZ4jPjVQM9X_xXqIsgVYUIFgz1Rgbteo/edit#heading=h.qk98yzwql21k)

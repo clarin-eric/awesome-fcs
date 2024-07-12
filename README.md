@@ -103,7 +103,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 ## Query Parsers
 
-*Parsers and converters for FCS query languages.*
+*Parsers, syntax highlighters and converters for FCS query languages.*
 
 ### CQL (Contextual Query Language)
 
@@ -122,3 +122,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - [Translation of query languages to serialized KoralQuery protocol (Java)](https://github.com/gremid/Koral) - CQL/FCS-QL to Koral.
 - [CQL to XCQL Transformer (XQuery)](https://github.com/digicademy/cql-parser-xqm)
+
+### Syntax Highlighters
+
+- [Prism for CQL and FCS query languages (JavaScript)](https://git.saw-leipzig.de/text-plus/FCS/textplus-fcs-prism/-/tree/main/src/plugins/prismjs/languages)

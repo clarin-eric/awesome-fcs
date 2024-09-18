@@ -7,6 +7,7 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 ## Contents
 
 - [Websites](#websites)
+- [Events](#events)
 - [Specification Documents](#specification-documents)
 - [Guides and Tutorials](#guides-and-tutorials)
 - [Reference Implementations for SRU / FCS](#reference-implementations-for-sru--fcs)
@@ -25,6 +26,15 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 - [CLARIN-FCS Endpoint Validator (previously: Conformance Tester)](https://www.clarin.eu/fcsvalidator)
 - [CLARIN Forum - Topics with _fcs_ tag](https://forum.clarin.eu/tag/fcs)
 - [CLARIN-FCS Latest Documents](https://clarin-eric.github.io/fcs-misc/) - GitHub Build of specification/tutorial documents of the `fcs-misc` repo.
+
+## Events
+
+*Events, conferences, hackathons, etc.*
+
+- 2024-10-18 - [FCS Hackathon @ CLARIN 2024](https://www.clarin.eu/event/2024/fcs-hackathon-clarin2024)
+- 2023-11-16 - [FCS Hackathon @ SAW, Text+](https://textplus.hypotheses.org/9750)
+- 2011-05-09 - [The EDC/Federated Search Workshop](https://trac.clarin.eu/wiki/Clarin%20Federated%20Search%20Demonstrator)
+- 2013-04-24 - [Federated Content Search Workshop](https://www.clarin.eu/event/2013/federated-content-search-workshop)
 
 ## Specification Documents
 

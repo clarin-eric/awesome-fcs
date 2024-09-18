@@ -33,8 +33,8 @@ A curated list of awesome FCS frameworks, libraries, software and resources
 
 - 2024-10-18 - [FCS Hackathon @ CLARIN 2024](https://www.clarin.eu/event/2024/fcs-hackathon-clarin2024)
 - 2023-11-16 - [FCS Hackathon @ SAW, Text+](https://textplus.hypotheses.org/9750)
-- 2011-05-09 - [The EDC/Federated Search Workshop](https://trac.clarin.eu/wiki/Clarin%20Federated%20Search%20Demonstrator)
 - 2013-04-24 - [Federated Content Search Workshop](https://www.clarin.eu/event/2013/federated-content-search-workshop)
+- 2011-05-09 - [The EDC/Federated Search Workshop](https://trac.clarin.eu/wiki/Clarin%20Federated%20Search%20Demonstrator)
 
 ## Specification Documents
 
